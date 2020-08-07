@@ -1,0 +1,9 @@
+﻿Fg,Animal No,Tg No,Sex,Age,Operation,LTR,Tissue No,Exp No,Plane,DOB,Note,Note2,Note3,Note4,Probe
+641,1836,416,M,137,Intact,80,1517,2944,coronal,170915,WT,Electrical electrode in the MS,Kindling experiment,,Takeuchi3
+641,1837,418,M,137,Intact,81,1518,2945,coronal,170915,WT,Electrical electrode in the MS,Kindling experiment,"180522, coppermesh broken",Takeuchi3
+641,1854,554,M,184,Intact,99,1536,2962,coronal,180125,PV-Cre+/+,Electrical electrode in the MS,Kindling experiment,"180728, implanted",Takeuchi3
+641,1855,555,M,185,Intact,100,1537,2963,coronal,180125,PV-Cre+/+,Electrical electrode in the MS,Kindling experiment,"180729, implanted",Takeuchi3
+641,1886,,M,134,Intact,127,,,,200310,WT,Electrical electrode in the MS,Kindling experiment,"200728, implanted",Takeuchi3
+641,1887,,M,134,Intact,128,,,,200310,WT,Electrical electrode in the MS,Kindling experiment,"200729, implanted",Takeuchi3
+641,1888,,M,134,Intact,129,,,,200310,WT,Electrical electrode in the MS,Kindling experiment,"200730, implanted",Takeuchi3
+641,1889,,M,134,Intact,130,,,,200310,WT,Electrical electrode in the MS,Kindling experiment,"200731, implanted",Takeuchi3
