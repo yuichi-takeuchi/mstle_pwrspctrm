@@ -29,8 +29,8 @@ end
 
 % come back to current folder
 cd(currentFolder)
-
 flag = 1;
+disp('done')
 
 end
 
