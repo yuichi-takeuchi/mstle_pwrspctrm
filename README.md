@@ -24,8 +24,9 @@ The codes have been tested with MATLAB ver 9.5 (R2018b) with the following toolb
 
 ### How to use
 1. dat file should be located in the \data folder
-2. Launch \code\main files
-3. Results will be in the \results folder
+2. Launch \code\main_LTR1_* files
+3. Launch \code\main_calculation file
+4. Results will be in the \results folder
 
 ## Versioning
 We use [SemVer](http://semver.org/) for versioning.
