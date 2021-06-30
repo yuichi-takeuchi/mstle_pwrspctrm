@@ -44,4 +44,4 @@ This project is licensed under the MIT License.
 
 ## References
 - Bokil, H., Andrews, P., Kulkarni, J., Mehta, S., Mitra, P. (2010). Chronux: a platform for analyzing neural signals. Journal of neuroscience methods  192(1), 146-51. https://dx.doi.org/10.1016/j.jneumeth.2010.06.020
-- Takeuchi Y, Harangozó M, Pedraza L, Földi T, Kozák G, Li Q, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. Brain, awaa450. 27 Jan 2021. DOI: https://doi.org/10.1093/brain/awaa450
+- Takeuchi Y, Harangozó M, Pedraza L, Földi T, Kozák G, Li Q, Berényi A, Closed-loop stimulation of the medial septum terminates epileptic seizures. Brain 144 (3): 885–908. 27 Jan 2021. DOI: https://doi.org/10.1093/brain/awaa450
